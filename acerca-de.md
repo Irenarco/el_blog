@@ -8,10 +8,10 @@ Antropólogo con interés en la ciberantropología y temas relacionados con las 
 
 ### More Information
 
-lector
-viajero
-cocinero
-investigador
+lector |
+viajero |
+cocinero |
+investigador |
 humano
 
 ### Contact me
